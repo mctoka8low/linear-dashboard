@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-05-11T23:58:27.905Z",
+  "weekFrom": "2026-05-11T00:00:00.000Z",
+  "weekTo": "2026-05-17T23:59:59.999Z",
+  "summary": {
+    "totalCompleted": 0,
+    "totalInProgress": 8,
+    "totalOverdue": 4,
+    "overallProgress": 22
+  },
+  "projects": [
+    {
+      "id": "7493ff4d-8b0e-4664-989f-6d64420800c0",
+      "name": "CI_4-5月でVRC既存＋20％",
+      "state": "backlog",
+      "progress": 25,
+      "totalIssues": 17,
+      "completedIssues": 4,
+      "completedThisWeek": [],
+      "overdue": [
+        {
+          "title": "【M2】Twitter広告キャンペーン開始（◎商品 上位6本）",
+          "dueDate": "2026-05-04"
+        },
+        {
+          "title": "【M2】Kagaribi Onsen（¥7,000）単品クリエイティブ強化",
+          "dueDate": "2026-05-04"
+        },
+        {
+          "title": "【M2】BOOTH商品ページ最適化（TOP5商品・サムネ・説明文改善）",
+          "dueDate": "2026-05-04"
+        },
+        {
+          "title": "【M2】Twitter有機投稿スタート（週3本ペース／◎商品ローテーション）",
+          "dueDate": "2026-05-04"
+        }
+      ]
+    },
+    {
+      "id": "8aefcdee-339b-45a1-81cc-e1ac83123d54",
+      "name": "VRC_MKTG",
+      "state": "backlog",
+      "progress": 13,
+      "totalIssues": 2,
+      "completedIssues": 0,
+      "completedThisWeek": [],
+      "overdue": []
+    },
+    {
+      "id": "51b7d190-9a79-4a89-9d34-77de50d042a3",
+      "name": "VRC_BOOTH戦略",
+      "state": "backlog",
+      "progress": 27,
+      "totalIssues": 12,
+      "completedIssues": 3,
+      "completedThisWeek": [],
+      "overdue": []
+    }
+  ],
+  "aiSummary": "## プロジェクト別週次サマリ\n\n### CI_4-5月でVRC既存＋20％\n進捗率25%で順調に進行中。ただし、**超過タスクが4件発生**しており、早急な対応が必要です。リソース配分の見直しや優先度の再設定を検討し、遅延拡大を防止する必要があります。\n\n### VRC_MKTG\n進捗率13%と低水準ですが、超過タスクは0件のため、計画通りの進行と見られます。今後のスケジュールを確認し、必要に応じてペースアップを図ることを推奨します。\n\n### VRC_BOOTH戦略\n進捗率27%で3プロジェクト中最も高く、超過タスクも0件と**最も健全な状態**です。引き続き現在のペースを維持してください。\n\n### 総括\n全体的に超過タスクはCI案件に集中しています。今週はCIプロジェクトの遅延解消を最優先とし、必要であれば他プロジェクトからの一時的なサポートも検討してください。"
+}
